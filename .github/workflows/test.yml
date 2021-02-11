@@ -1,0 +1,9 @@
+name: core-network-services-deployment
+
+on: 
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
